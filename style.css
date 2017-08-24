@@ -1,0 +1,29 @@
+.head{
+	background-image: url("https://www.smashingmagazine.com/wp-content/uploads/2015/06/10-dithering-opt.jpg");
+	color: white;
+	padding: 50px;
+	font-family: 'Baloo Bhaijaan', cursive;
+}
+
+.left {
+	padding: 30px;
+	background-color: grey;
+	color: white;
+	float: center;
+
+}
+.right{
+	padding: 10px;
+	background-color: gray;
+	color: orange;
+}
+
+.inn {
+	color: white;
+	background-color: grey;
+	border:1px solid white;
+    font-size: 40px;
+    margin: 1px;
+    padding: 10px;
+    text-align: center
+    }
